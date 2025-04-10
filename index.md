@@ -3,3 +3,6 @@
 ``` javascript
 var myVar = "Hello, mr. karju!";
 ```
+- [x] Juo hunajaa
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
